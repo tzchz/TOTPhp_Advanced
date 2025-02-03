@@ -1,0 +1,13 @@
+{
+  "name": "TOTPhp",
+  "short_name": "TOTPhp",
+  "start_url": ".",
+  "display": "standalone",
+  "description": "https://github.com/tzchz/TOTPhp",
+  "icons": [
+    {
+      "src": "https://assets.060418.best/totp.png",
+      "sizes": "256x256"
+    }
+  ]
+}
