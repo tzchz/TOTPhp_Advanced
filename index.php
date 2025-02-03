@@ -261,6 +261,6 @@ if ($id and $nfc) {
         <li><button id="add" class="add-button" onclick="document.getElementById('nid').value=prompt('Enter Account ID');document.getElementById('nkey').value=prompt('Enter 2FA Key');document.getElementById('nkey').value=document.getElementById('nkey').value.replace(/\s/g, '').toUpperCase();readNFC(0);"><i class="fas fa-plus icon"></i>Add</button></li>
     </ul>
 </body>
-</html><?
+</html><?php
     $db->close();
 }
